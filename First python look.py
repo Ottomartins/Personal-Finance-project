@@ -1,7 +1,7 @@
 import os
 from Student import Pergunta
 
-
+#this is
 
 perguntas_linhas = [
     "Qual a cor de uma banana?\n(a) Vermelho\n(b) Amarelo\n(c) Roxo\n\n",
